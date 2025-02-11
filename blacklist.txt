@@ -1,0 +1,3 @@
+evil.com
+phishingsite.net
+malicious-domain.org
